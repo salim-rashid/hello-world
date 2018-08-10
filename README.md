@@ -1,5 +1,5 @@
 # hello-world
-This is my first repository for playing with GitHub.
+This is my first repository for on GitHub.
 
 Hi there!
-I like automating infrastructure provisoning using PowerShell, Azure ARM Templates and Ansible. I am getting started to learn how to track changes for my scripts and collaborating to write the code with others using Git & GitHub.
+I like automating infrastructure provisoning using PowerShell, Azure ARM Templates and Ansible. I am getting started learning how to track changes for my scripts and collaborating with others to write code using Git & GitHub.
